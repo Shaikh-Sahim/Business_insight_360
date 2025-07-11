@@ -64,6 +64,10 @@ If you're looking for a **data-driven problem solver** with practical Power BI e
 
 ---
 
+## link to View the Live PowerBi DashBoard
+[Click here to view the dashboard](https://tinyurl.com/BusinessInsightdashboard)
+
+
 ## 📷 Dashboard Preview
 
 ![Business Insights 360 Dashboard](https://github.com/Shaikh-Sahim/Business_insight_360/blob/main/Screenshot%202025-07-10%20225055.png)
